@@ -1,0 +1,20 @@
+    Created Vite React app with npm create vite@latest
+
+    Installed Bootstrap for styling
+
+    Identified 5 bugs using React DevTools:
+
+        Missing title rendering
+
+        Prop name mismatch (productData vs product)
+
+        Array key warning
+
+        Boolean displayed as text
+
+        Button not disabled when out of stock
+
+    Fixed all issues and verified in DevTools
+
+    App runs correctly with npm run dev
+
